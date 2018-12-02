@@ -18,5 +18,8 @@ sudo pip3 install --user opencv_contrib_python
 # Creating QR codes
 apt install -y qrencode
 
+# Install qrcode reader
+sudo pip3 install pyzbar[scripts]
+
 
 
