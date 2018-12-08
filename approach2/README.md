@@ -10,6 +10,6 @@ Write an Android and IOS App
 
 ### App Store Connect public link
 
-Install testflight, then click on this [link](https://testflight.apple.com/join/IzRPW0i1)
+Install testflight, then click on this [link](https://testflight.apple.com/join/6RPz87aI)
 
 
