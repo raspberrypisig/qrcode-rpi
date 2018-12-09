@@ -12,6 +12,9 @@ sudo apt install -y qt4-dev-tools libatlas-base-dev python3-pyqt5
 sudo apt install -y fswebcam
 sudo apt install -y streamer
 
+# Support for configuring UVC cameras
+sudo apt install -y guvcview
+
 # Install opencv
 pip3 install --user opencv_contrib_python
 
