@@ -6,8 +6,9 @@
 ## Handy tools
 
 #### Create qr codes from the command line
-$ sudo apt install -y qrencode
+`sh
+sudo apt install -y qrencode
 
-$ qrencode https://www.google.com -o qr.jpg
-
+qrencode https://www.google.com -o qr.jpg
+`
 
