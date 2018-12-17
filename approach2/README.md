@@ -6,7 +6,7 @@ Write an Android and IOS App
 
 Step 1 is to install testflight. 
 
-Then, either click on this [link](https://testflight.apple.com/join/6RPz87aI)
+Then, either click on this [link](https://testflight.apple.com/join/f0b9NLaH)
 
 or use your camera and use the qr code below
 
